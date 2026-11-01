@@ -1,0 +1,2 @@
+# agent_loop_counterexample_search_054faccf
+（智能体输出可信度场景）如何避免把智能体输出可信度的噪声当成信号？用调用轨迹与终止给出误判模式的判别特征。
